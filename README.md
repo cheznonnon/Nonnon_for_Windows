@@ -34,6 +34,8 @@ Supported : Windows NT4/2000/XP/Vista/7/8/8.1/10/11<br>
 + Jump'N'Run Action Game
 #### Nonnon Paint
 + Graphic Editor / Paint
+#### Nyaursim
++ .WAV Processor
 #### Project Checker
 + Diff Tool
 
