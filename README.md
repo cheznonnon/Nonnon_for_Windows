@@ -1,6 +1,6 @@
 # Nonnon for Windows
 
-Updated : 2026/01/27
+Updated : 2026/01/28
 
 ---
 ### Nonnon Win32
@@ -49,3 +49,5 @@ Supported : Win11 only<br>
 
 #### Nonnon Pinknoise
 + Pinknoise Generator
+#### hunyapiyo3
++ Brain Trainer
