@@ -3,6 +3,15 @@
 Updated : 2026/01/28
 
 ---
+
+[ CAUTION ]
+
+"no guarantee"<br>
+use at your own risk<br>
+
+no certification available (your Windows stop to run my apps)<br>
+
+---
 ### Nonnon Win32
 32-bit Version<br>
 Made by MinGW 3.x<br>
@@ -51,3 +60,5 @@ Supported : Win11 only<br>
 + Pinknoise Generator
 #### hunyapiyo3
 + Brain Trainer
+
+---
