@@ -1,6 +1,6 @@
 # Nonnon for Windows
 
-Updated : 2026/01/29
+Updated : 2026/01/30
 
 ---
 
@@ -60,5 +60,7 @@ Supported : Win11 only<br>
 + Pinknoise Generator
 #### hunyapiyo3
 + Brain Trainer
+#### Nonnon Freecell
++ Freecell Solitaire
 
 ---
