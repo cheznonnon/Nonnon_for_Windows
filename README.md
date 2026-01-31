@@ -1,6 +1,6 @@
 # Nonnon for Windows
 
-Updated : 2026/01/30
+Updated : 2026/01/31
 
 ---
 
@@ -49,7 +49,7 @@ Supported : Windows NT4/2000/XP/Vista/7/8/8.1/10/11<br>
 + Diff Tool
 
 ---
-### Nonnon Win64
+### Nonnon Win64 (currently, update daily)
 64-bit Version<br>
 Made by MinGW-w64<br>
 Universal CRT Version<br>
