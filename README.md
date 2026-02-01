@@ -1,6 +1,6 @@
 # Nonnon for Windows
 
-Updated : 2026/01/31
+Updated : 2026/02/01
 
 ---
 
@@ -10,6 +10,8 @@ Updated : 2026/01/31
 use at your own risk<br>
 
 no certification available (your Windows stop to run my apps)<br>
+
+[Info Center Repo](https://github.com/cheznonnon/InfoCenter) has the latest changelog<br>
 
 ---
 ### Nonnon Win32
