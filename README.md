@@ -27,7 +27,7 @@ Supported : Windows NT4/2000/XP/Vista/7/8/8.1/10/11<br>
 + Text Editor
 #### Character Map
 + Unicode Viewer
-#### Car-Race 2
+#### CAR-RACE 2
 + crash driven racer
 #### hunyapiyo2
 + Puzzle Game
@@ -58,13 +58,15 @@ Universal CRT Version<br>
 <br>
 Supported : Win11 only<br>
 
-#### Nonnon Pinknoise
-+ Pinknoise Generator
 #### hunyapiyo3
 + Brain Trainer
 #### Nonnon Freecell
 + Freecell Solitaire
 #### Nonnon Marie
 + Image Viewer
+#### Nonnon Pinknoise
++ Pinknoise Generator
+#### Nonnon Tools
++ Misc Tools
 
 ---
