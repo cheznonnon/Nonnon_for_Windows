@@ -1,6 +1,6 @@
 # Nonnon for Windows
 
-Updated : 2026/02/01
+Updated : 2026/02/02
 
 ---
 
@@ -64,5 +64,7 @@ Supported : Win11 only<br>
 + Brain Trainer
 #### Nonnon Freecell
 + Freecell Solitaire
+#### Nonnon Marie
++ Image Viewer
 
 ---
