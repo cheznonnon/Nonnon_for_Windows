@@ -1,6 +1,6 @@
 # Nonnon for Windows
 
-Updated : 2026/02/02
+Updated : 2026/02/03
 
 ---
 
@@ -66,6 +66,8 @@ Supported : Win11 only<br>
 + Image Viewer
 #### Nonnon Pinknoise
 + Pinknoise Generator
+#### Nonnon Poker
++ Simple Poker
 #### Nonnon Tools
 + Misc Tools
 
