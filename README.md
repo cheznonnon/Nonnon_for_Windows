@@ -54,6 +54,7 @@ Supported : Windows NT4/2000/XP/Vista/7/8/8.1/10/11<br>
 ### Nonnon Win64 (currently, update daily)
 64-bit Version<br>
 Made by MinGW-w64<br>
+Unicode or W Version<br>
 Universal CRT Version<br>
 <br>
 Supported : Win11 only<br>
