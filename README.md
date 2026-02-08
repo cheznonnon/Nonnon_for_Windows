@@ -1,6 +1,6 @@
-# Nonnon for Windows
+# Nonnon for Windows (currently, update daily)
 
-Updated : 2026/02/07
+Updated : 2026/02/08
 
 ---
 
@@ -51,7 +51,7 @@ Supported : Windows NT4/2000/XP/Vista/7/8/8.1/10/11<br>
 + Diff Tool
 
 ---
-### Nonnon Win64 (currently, update daily)
+### Nonnon Win64
 64-bit Version<br>
 Made by MinGW-w64<br>
 Unicode or W Version<br>
