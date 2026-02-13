@@ -61,6 +61,8 @@ Supported : Win11 only<br>
 
 #### hunyapiyo3
 + Brain Trainer
+#### Nonnon CatPad (Beta)
++ Text Editor
 #### Nonnon Freecell
 + Freecell Solitaire
 #### Nonnon Marie
