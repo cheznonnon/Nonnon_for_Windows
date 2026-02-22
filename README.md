@@ -67,6 +67,8 @@ Supported : Win11 only<br>
 + Freecell Solitaire
 #### Nonnon Marie
 + Image Viewer
+#### Nonnon Nyaagle
++ Local Search Engine
 #### Nonnon Pinknoise
 + Pinknoise Generator
 #### Nonnon Poker
