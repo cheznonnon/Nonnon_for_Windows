@@ -1,6 +1,6 @@
 # Nonnon for Windows (currently, update daily)
 
-Updated : 2026/02/23
+Updated : 2026/02/24
 
 ---
 
@@ -75,5 +75,7 @@ Supported : Win11 only<br>
 + Simple Poker
 #### Nonnon Tools
 + Misc Tools
+#### Project Checker
++ Diff Tool
 
 ---
