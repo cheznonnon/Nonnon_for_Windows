@@ -1,6 +1,6 @@
 # Nonnon for Windows
 
-Updated : 2026/03/10
+Updated : 2026/03/20
 
 ---
 
@@ -69,6 +69,8 @@ Supported : Win11 only<br>
 + Image Viewer
 #### Nonnon Nyaagle
 + Local Search Engine
+#### Nonnon Nyaursim
++ .WAV Processor
 #### Nonnon Pinknoise
 + Pinknoise Generator
 #### Nonnon Poker
