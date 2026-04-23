@@ -45,7 +45,7 @@ Supported : Windows NT4/2000/XP/Vista/7/8/8.1/10/11<br>
 + Jump'N'Run Action Game
 #### Nonnon Paint
 + Graphic Editor / Paint
-#### Nyaursim
+#### Nyaurism
 + .WAV Processor
 #### Project Checker
 + Diff Tool
@@ -69,7 +69,7 @@ Supported : Win11 only<br>
 + Image Viewer
 #### Nonnon Nyaagle
 + Local Search Engine
-#### Nonnon Nyaursim
+#### Nonnon Nyaurism
 + .WAV Processor
 #### Nonnon Pinknoise
 + Pinknoise Generator
