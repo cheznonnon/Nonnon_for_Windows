@@ -1,6 +1,6 @@
 # Nonnon for Windows
 
-Updated : 2026/04/30
+Updated : 2026/05/10
 
 ---
 
@@ -61,6 +61,8 @@ Supported : Win11 only<br>
 
 #### hunyapiyo3
 + Brain Trainer
+#### LINE MASHER 2
++ Retro Shooter
 #### Nonnon CatPad
 + Text Editor
 #### Nonnon Freecell
