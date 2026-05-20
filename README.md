@@ -1,6 +1,6 @@
 # Nonnon for Windows
 
-Updated : 2026/05/10
+Updated : 2026/05/20
 
 ---
 
