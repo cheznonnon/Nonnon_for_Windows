@@ -1,6 +1,6 @@
 # Nonnon for Windows
 
-Updated : 2026/05/29
+Updated : 2026/06/10
 
 ---
 
@@ -57,7 +57,7 @@ Made by MinGW-w64<br>
 Unicode or W Version<br>
 Universal CRT Version<br>
 <br>
-Supported : Win11 only<br>
+Supported : Windows 10/11<br>
 
 #### hunyapiyo3
 + Brain Trainer
